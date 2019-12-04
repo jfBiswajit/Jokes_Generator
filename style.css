@@ -1,0 +1,22 @@
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid rgba(128, 128, 128, 0.308);
+  border-radius: 0.3rem;
+}
+
+h2 {
+  text-align: center;
+  background: #0c2461;
+  color: #fff;
+  padding: 0.5rem;
+  font-family: 'Great Vibes',
+    cursive;
+}
+
+.container {
+  padding: 1rem;
+  margin-top: 1rem;
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.185);
+  border-radius: 0.3rem;
+}
