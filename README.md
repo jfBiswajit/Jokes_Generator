@@ -17,6 +17,6 @@ Generate Jokes randomly.
 
 ![Index](Screens/index.png?raw=true 'Title')
 
-### Shopping List
+### Jokes List (As per requirement)
 
 ![Index](Screens/shop_list.png?raw=true 'Title')
