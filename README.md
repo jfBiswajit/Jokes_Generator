@@ -13,10 +13,7 @@ Generate Jokes randomly.
 - CSS
 - HTML
 
-### Home
+### Jokes
 
 ![Index](Screens/index.png?raw=true 'Title')
 
-### Jokes List (As per requirement)
-
-![Index](Screens/shop_list.png?raw=true 'Title')
